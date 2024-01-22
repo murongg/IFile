@@ -1,5 +1,5 @@
 {
-  "name": "IFile",
+  "name": "@murongg/file",
   "type": "module",
   "version": "0.0.0",
   "packageManager": "pnpm@8.10.5",
@@ -7,13 +7,13 @@
   "author": "MuRong <hi@mrong.me>",
   "license": "MIT",
   "funding": "https://github.com/sponsors/murongg",
-  "homepage": "https://github.com/murongg/IFile#readme",
+  "homepage": "https://github.com/murongg/@murongg/file#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/murongg/IFile.git"
+    "url": "git+https://github.com/murongg/@murongg/file.git"
   },
   "bugs": {
-    "url": "https://github.com/murongg/IFile/issues"
+    "url": "https://github.com/murongg/@murongg/file/issues"
   },
   "keywords": [],
   "sideEffects": false,
